@@ -1,0 +1,47 @@
+<catalog>
+  <book id="1">
+    <title>1984</title>
+    <author>Joshua Bloch</author>
+    <year>2020</year>
+    <genre>Non-Fiction</genre>
+    <price currency="class Price">class Price</price>
+    <format>Ebook</format>
+    <isbn>978-3-373294833</isbn>
+    <publisher>
+      <name>TechBooks Publishing</name>
+      <address>
+        <city>Tokyo</city>
+        <country>Japan</country>
+      </address>
+    </publisher>
+  </book>
+  <book id="2">
+    <title>Effective Java</title>
+    <author>Isaac Asimov</author>
+    <year>2020</year>
+    <genre>Science</genre>
+    <price currency="class Price">class Price</price>
+    <format>Print</format>
+    <isbn>978-5-544594322</isbn>
+    <translator>Joshua Bloch</translator>
+    <publisher>
+      <name>TechBooks Publishing</name>
+      <address>
+        <city>Tokyo</city>
+        <country>Japan</country>
+      </address>
+    </publisher>
+    <reviews>
+      <review>
+        <user>charlie</user>
+        <rating>2</rating>
+        <comment>Great book!</comment>
+      </review>
+      <review>
+        <user>charlie</user>
+        <rating>4</rating>
+        <comment>Great book!</comment>
+      </review>
+    </reviews>
+  </book>
+</catalog>
